@@ -37,26 +37,6 @@
 </p>
 
 
-📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielec6&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielec6&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gabrielec6&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
 🌱 Atualmente estudando
 
 - HTML5
